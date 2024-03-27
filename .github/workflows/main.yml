@@ -1,0 +1,22 @@
+name: profile updater
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  profile-updater:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: kumackey/profile-updater@v1
+        with:
+          qiita_user_id: 4roro4
+      - name: Commit and push
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "action@github.com"
+          git add .
+          git commit -m "profile updated" || true
+          git push origin main
