@@ -19,7 +19,5 @@ jobs:
           git config --local user.email "prowebengineer@gmail.com"
           git add .
           git commit -m "profile updated" || true
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          git push -u ProWebEngineer:${{ secrets.GH_TOKEN }} origin main
         
