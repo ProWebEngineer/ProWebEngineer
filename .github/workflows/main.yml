@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }} # GitHubアクセストークンをここで指定します
       - uses: kumackey/profile-updater@v1
         with:
           qiita_user_id: 4roro4
@@ -18,6 +20,5 @@ jobs:
           git config --local user.name "ProWebEngineer"
           git config --local user.email "prowebengineer@gmail.com"
           git add .
-          git commit -m "profile updated" || true
-          git push -u ProWebEngineer:${{ secrets.GH_TOKEN }} origin main
-        
+          git commit -m "profile updated" || true # 変更がなければコミットはスキップされます
+          git push origin main # メインブランチへの変更をプッシュします
