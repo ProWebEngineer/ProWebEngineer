@@ -1,3 +1,9 @@
+## Blog　Articles
+
+<!-- latest-posts:start -->
+<!-- 自動更新されるセクション -->
+<!-- latest-posts:end -->
+
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
