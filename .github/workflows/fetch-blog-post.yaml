@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 毎日UTC 0時に実行
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14'
+    - name: Install dependencies
+      run: npm install contentful
+    - name: Fetch latest blog posts
+      run: node fetch-posts.js > latest-posts.md
+      env:
+        CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
+        CONTENTFUL_ACCESS_TOKEN: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
+    - name: Update README
+      run: |
+        sed -i '/<!-- latest-posts:start -->/,/<!-- latest-posts:end -->/c\<!-- latest-posts:start -->\n$(cat latest-posts.md)\n<!-- latest-posts:end -->' README.md
+    - name: Commit and push
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update README with latest blog posts"
+        git push
