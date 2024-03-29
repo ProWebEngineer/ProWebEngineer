@@ -1,4 +1,4 @@
-## Blog　Articles
+# Blog　Articles
 
 <!-- latest-posts:start -->
 <!-- 自動更新されるセクション -->
