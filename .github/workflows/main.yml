@@ -1,4 +1,4 @@
-name: profile updater
+name: Qiita Article
 
 on:
   workflow_dispatch:
