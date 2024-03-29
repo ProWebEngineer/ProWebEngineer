@@ -23,6 +23,7 @@ jobs:
       env:
         CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
         CONTENTFUL_ACCESS_TOKEN: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
+        CONTENTFUL_CONTENT_TYPE_ID: ${{ secrets.CONTENTFUL_CONTENT_TYPE_ID }}
     - name: Update README
       run: |
         sed -i '/<!-- latest-posts:start -->/,/<!-- latest-posts:end -->/c\<!-- latest-posts:start -->\n$(cat latest-posts.md)\n<!-- latest-posts:end -->' README.md
