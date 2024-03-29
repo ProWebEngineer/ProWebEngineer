@@ -13,7 +13,7 @@ client.getEntries({
 })
 .then((response) => {
   const posts = response.items.map((item) => {
-    return `- [${item.fields.title}](YOUR_BLOG_URL/${item.fields.slug})`; // YOUR_BLOG_URLを実際のブログのURLに置き換える
+    return `- [${item.fields.title}](https://pwe-tech.com/post/${item.fields.slug})`;
   });
   console.log(posts.join('\n'));
 })
