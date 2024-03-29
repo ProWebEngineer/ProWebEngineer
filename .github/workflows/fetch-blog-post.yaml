@@ -19,7 +19,7 @@ jobs:
     - name: Install dependencies
       run: npm install contentful
     - name: Fetch latest blog posts
-      run: node fetch-posts.js > latest-posts.md
+      run: node fetch-post.js > latest-posts.md
       env:
         CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
         CONTENTFUL_ACCESS_TOKEN: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
