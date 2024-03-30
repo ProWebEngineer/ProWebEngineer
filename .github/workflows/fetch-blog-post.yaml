@@ -3,7 +3,7 @@ name: Blog Article
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # 毎日UTC 0時に実行
+    - cron: '15 0 * * *'
 
 jobs:
   update-readme:
