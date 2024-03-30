@@ -7,7 +7,7 @@ const client = contentful.createClient({
 });
 
 client.getEntries({
-  content_type: process.env.CONTENTFUL_CONTENT_TYPE_ID,
+  content_type: 'post',
   limit: 5
 })
 .then((response) => {
