@@ -12,9 +12,12 @@
 
 <img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Nginx-269539.svg%3Flogo%3Dnginx%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=3fd95b04ba4987dde181146b5285d5c9" data-canonical-src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&amp;style=for-the-badge" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Nginx-269539.svg%3Flogo%3Dnginx%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=b767bc1ba701ea870efa19d113d5762e 1x" loading="lazy"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Docker-1488C6.svg%3Flogo%3Ddocker%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=14a6094ef3229a37e7d5126c6cb6ac7a" data-canonical-src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&amp;style=for-the-badge" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Docker-1488C6.svg%3Flogo%3Ddocker%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=708ff5994d8c5b4c433e0de3ff01e257 1x" loading="lazy"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-githubactions-FFFFFF.svg%3Flogo%3Dgithub-actions%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=2476e16acd4c54fb4bf78852e6390101" data-canonical-src="https://img.shields.io/badge/-githubactions-FFFFFF.svg?logo=github-actions&amp;style=for-the-badge" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-githubactions-FFFFFF.svg%3Flogo%3Dgithub-actions%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=f0cfacc2c9a959abe1ef49d9b82cdc39 1x" loading="lazy"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Amazon%2520aws-232F3E.svg%3Flogo%3Damazon-aws%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;s=43f20d79eca53cf2985eed6a2169447c" data-canonical-src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&amp;style=for-the-badge" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Amazon%2520aws-232F3E.svg%3Flogo%3Damazon-aws%26style%3Dfor-the-badge?ixlib=rb-4.0.0&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=fac5408d85e14055adf25c8a80d09ed8 1x" loading="lazy">
 
-## MENTA
+## 🐶MENTA
 
-** [総合6位！マイケル@未経験から即戦力に！マンツーマンで徹底指導](https://menta.work/user/4436) **
+[総合6位！マイケル@未経験から即戦力に！マンツーマンで徹底指導](https://menta.work/user/4436)
+
+## YouTube
+[動画更新中！](https://www.youtube.com/channel/UCGq2Y94R8nXkJw0m2YFO4fA)
 
 ## ✏Blog Articles
 
