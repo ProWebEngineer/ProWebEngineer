@@ -28,8 +28,12 @@ jobs:
         CONTENTFUL_CONTENT_TYPE_ID: ${{ secrets.CONTENTFUL_CONTENT_TYPE_ID }}
     - name: Update README
       run: |
-        LATEST_POSTS=$(cat latest-posts.md)
-        sed -i "/<!-- latest-posts:start -->/,/<!-- latest-posts:end -->/c\<!-- latest-posts:start -->\n$LATEST_POSTS\n<!-- latest-posts:end -->" README.md
+        # README.md の内容を一時ファイルにコピー
+        cp README.md README.tmp
+        # latest-posts.md の内容を挿入する位置を特定し、内容を挿入
+        awk '/<!-- latest-posts:start -->/{print; system("cat latest-posts.md"); next} /<!-- latest-posts:end -->{print; next} 1' README.tmp > README.md
+        # 一時ファイルを削除
+        rm README.tmp
     - name: Commit and push
       run: |
         git config --global user.email "action@github.com"
