@@ -19,9 +19,9 @@
 ## 📷YouTube
 - [動画更新中！](https://www.youtube.com/channel/UCGq2Y94R8nXkJw0m2YFO4fA)
 
-## ![udemy-favicon](https://github.com/ProWebEngineer/ProWebEngineer/assets/74095454/74c08a6f-d098-4f66-8dbe-e9bd8feee4df)
-Udemy
-- https://www.udemy.com/course/vue-chat/?couponCode=FISCAL24#instructor-1
+## ![udemy-favicon](https://github.com/ProWebEngineer/ProWebEngineer/assets/74095454/74c08a6f-d098-4f66-8dbe-e9bd8feee4df) Udemy
+- [⭐️4.7以上！【Vue.js + firebase + Vuetify】Vue.js入門！超実践チャットルームアプリ開発](https://udemy.com/course/vue-chat)
+- [現場で働けるGit入門:これで安心！実際の実務で使えるGit：GitHub を基礎から徹底学習](https://www.udemy.com/course/basic-git)
 
 ## ✏Blog Articles
 
