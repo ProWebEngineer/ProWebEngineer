@@ -31,7 +31,7 @@ jobs:
         # README.md の内容を一時ファイルにコピー
         cp README.md README.tmp
         # latest-posts.md の内容を挿入する位置を特定し、内容を挿入
-        awk '/<!-- latest-posts:start -->/{print; system("cat latest-posts.md"); next} /<!-- latest-posts:end -->{print; next} 1' README.tmp > README.md
+        awk '/<!-- latest-posts:start -->/{print; system("cat latest-posts.md"); next} /<!-- latest-posts:end -->/{print; next} 1' README.tmp > README.md
         # 一時ファイルを削除
         rm README.tmp
     - name: Commit and push
