@@ -1,6 +1,11 @@
 # Blog Articles
 
 <!-- latest-posts:start -->
+- [🧩 TypeScriptの型引数を理解する](https://pwe-tech.com/post/typescript-generic-types)
+- [ 🐍 Python3での出力処理の完全ガイド](https://pwe-tech.com/post/python-print-guide)
+- [🛠 TypeScriptでオブジェクトの型定義を理解しよう](https://pwe-tech.com/post/typescript-object-types)
+- [📘 TypeScriptでオブジェクト操作をマスターしよう！](https://pwe-tech.com/post/typescript)
+- [🐍 Pythonで辞書型データを扱うコツ](https://pwe-tech.com/post/python-dict)
 <!-- 自動更新されるセクション -->
 <!-- latest-posts:end -->
 
