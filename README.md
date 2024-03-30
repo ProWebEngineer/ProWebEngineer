@@ -1,7 +1,7 @@
 # Blog Articles
 
 <!-- latest-posts:start -->
-$(cat latest-posts.md)
+<!-- 自動更新されるセクション -->
 <!-- latest-posts:end -->
 
 # Qiita Articles
