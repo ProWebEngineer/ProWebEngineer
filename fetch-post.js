@@ -8,7 +8,6 @@ const client = contentful.createClient({
 
 client.getEntries({
   content_type: process.env.CONTENTFUL_CONTENT_TYPE_ID,
-  order: '-fields.publishDate',
   limit: 5
 })
 .then((response) => {
