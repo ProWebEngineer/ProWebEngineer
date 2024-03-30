@@ -12,7 +12,10 @@ client.getEntries({
 })
 .then((response) => {
   const posts = response.items.map((item) => {
-    return `- [${item.fields.title}](https://pwe-tech.com/post/${item.fields.slug})`;
+    // URLからスペースを削除
+    const url = item.fields.slug.replace(/\s+/g, '');
+    // 正しくスペースを削除したURLを使用してMarkdownリンクを生成
+    return `- [${item.fields.title}](https://pwe-tech.com/post/${url})`;
   });
   console.log(posts.join('\n'));
 })
