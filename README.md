@@ -1,4 +1,4 @@
-# Blog Articles
+# 　✏Blog Articles
 
 <!-- latest-posts:start -->
 - [🧩 TypeScriptの型引数を理解する](https://pwe-tech.com/post/typescript-generic-types)
