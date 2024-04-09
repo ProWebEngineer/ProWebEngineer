@@ -14,7 +14,7 @@
 
 ## 🐶MENTA
 
-- [総合6位！マイケル@未経験から即戦力に！マンツーマンで徹底指導](https://menta.work/user/4436)
+- 🎉[総合6位！マイケル@未経験から即戦力に！マンツーマンで徹底指導](https://menta.work/user/4436)
 
 ## 📷YouTube
 - [動画更新中！](https://www.youtube.com/channel/UCGq2Y94R8nXkJw0m2YFO4fA)
