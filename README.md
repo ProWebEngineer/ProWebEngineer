@@ -26,11 +26,11 @@
 ## ✏Blog Articles
 
 <!-- latest-posts:start -->
+- [📊 GASでスプレッドシートの操作をマスターしよう](https://pwe-tech.com/post/gas-spreadsheet)
 - [🔧 Sassでのファイル管理と名前空間の活用方法](https://pwe-tech.com/post/sass-use)
 - [⚡️VSCodeでHTMLを爆速で書く！Emmetショートカット完全ガイド](https://pwe-tech.com/post/vscode-html-emmet)
 - [🎨 CSSで要素をキレイに中央揃え！](https://pwe-tech.com/post/css-center)
 - [🎨 CSSの再利用性を高める！Mixinの基本](https://pwe-tech.com/post/css-mixin)
-- [🕶️Sassの環境構築から活用まで](https://pwe-tech.com/post/sass)
 <!-- latest-posts:end -->
 
 ## Qiita Articles
