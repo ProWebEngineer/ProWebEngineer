@@ -26,11 +26,11 @@
 ## ✏Blog Articles
 
 <!-- latest-posts:start -->
+- [🌟 Gatsbyで美しいシンタックスハイライトを実現する方法](https://pwe-tech.com/post/gatsby-prism)
 - [Google Apps ScriptでHTTPリクエストを扱う方法🌐](https://pwe-tech.com/post/google-apps-script-http)
 - [📝 GASで効率的なログ出力をマスターしよう！](https://pwe-tech.com/post/gas)
 - [🔧 Sassでのファイル管理と名前空間の活用方法](https://pwe-tech.com/post/sass-use)
 - [📊 GASでスプレッドシートの操作をマスターしよう](https://pwe-tech.com/post/gas-spreadsheet)
-- [⚡️VSCodeでHTMLを爆速で書く！Emmetショートカット完全ガイド](https://pwe-tech.com/post/vscode-html-emmet)
 <!-- latest-posts:end -->
 
 ## Qiita Articles
