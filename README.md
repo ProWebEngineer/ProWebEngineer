@@ -19,6 +19,9 @@
 ## 📷YouTube
 - [動画更新中！](https://www.youtube.com/channel/UCGq2Y94R8nXkJw0m2YFO4fA)
 
+[![S3を利用したSPAの迅速デプロイメント方法を解説](https://i.ytimg.com/vi/5Gg0ZhdCcag/mqdefault.jpg)](https://www.youtube.com/watch?v=5Gg0ZhdCcag)
+
+
 <!-- latest-youtube-posts:start -->
 ![S3を利用したSPAの迅速デプロイメント方法を解説](https://i.ytimg.com/vi/5Gg0ZhdCcag/mqdefault.jpg)
 [S3を利用したSPAの迅速デプロイメント方法を解説](https://www.youtube.com/watch?v=5Gg0ZhdCcag)
@@ -35,9 +38,6 @@
 ![【Vue3入門】実践を通じて学ぶTODO List #8](https://i.ytimg.com/vi/Dy3INHmlvCw/mqdefault.jpg)
 [【Vue3入門】実践を通じて学ぶTODO List #8](https://www.youtube.com/watch?v=Dy3INHmlvCw)
 
-<!-- latest-youtube-posts:end -->
-<!-- latest-youtube-posts:end -->
-<!-- latest-youtube-posts:end -->
 <!-- latest-youtube-posts:end -->
 
 ## Udemy
