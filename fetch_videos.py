@@ -7,6 +7,7 @@ url = f"https://www.googleapis.com/youtube/v3/search?key={api_key}&channelId={ch
 
 response = requests.get(url)
 videos = response.json()
+print('videos', videos)
 
 with open('latest-videos.md', 'w') as file:
     for video in videos['items']:
