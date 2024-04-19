@@ -37,6 +37,8 @@
 
 <!-- latest-youtube-posts:end -->
 <!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
 
 ## Udemy
 - [⭐️4.7以上！【Vue.js + firebase + Vuetify】Vue.js入門！超実践チャットルームアプリ開発](https://udemy.com/course/vue-chat)
