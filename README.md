@@ -19,6 +19,8 @@
 ## 📷YouTube
 - [動画更新中！](https://www.youtube.com/channel/UCGq2Y94R8nXkJw0m2YFO4fA)
 
+![S3を利用したSPAの迅速デプロイメント方法を解説](https://i.ytimg.com/vi/5Gg0ZhdCcag/mqdefault.jpg)
+
 <!-- latest-youtube-posts:start -->
 <!-- ここにyoutube -->
 <!-- latest-youtube-posts:end -->
