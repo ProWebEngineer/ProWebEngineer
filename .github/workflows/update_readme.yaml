@@ -59,6 +59,8 @@ jobs:
         echo "###############"
         cat README.tmp | grep -C 5 posts
         echo "###############"
+        git status
+        git diff README.md
         # 一時ファイルを削除
         rm README.tmp
     - name: Commit and push
