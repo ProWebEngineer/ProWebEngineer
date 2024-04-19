@@ -51,5 +51,10 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add README.md
-        git commit -m "Update README with latest YouTube videos"
-        git push
+        # 変更がステージングされているかチェックし、変更があればコミットとプッシュを実行
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update README with latest YouTube videos"
+          git push
+        fi
