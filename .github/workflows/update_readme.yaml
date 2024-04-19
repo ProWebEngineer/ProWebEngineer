@@ -38,6 +38,7 @@ jobs:
         cp README.md README.tmp
         # latest-posts.md の内容を挿入する位置を特定し、以前の投稿をクリアしてから内容を挿入
         awk '/<!-- latest-youtube-posts:start -->/{print; system("cat latest-videos.md"); next} /<!-- latest-youtube-posts:end -->/{print}' README.md > README.tmp && mv README.tmp README.md
+        awk '/<!-- latest-youtube-posts:start -->/{print; system("cat latest-videos.md"); flag=1; next} /<!-- latest-youtube-posts:end -->/{flag=0} !flag' README.tmp > README.md
         print 'youtube awk'
         cat README.tmp | grep youtube
         awk '/<!-- latest-posts:start -->/{print; system("cat latest-posts.md"); flag=1; next} /<!-- latest-posts:end -->/{flag=0} !flag' README.tmp > README.md
