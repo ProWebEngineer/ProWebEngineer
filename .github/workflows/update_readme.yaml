@@ -51,6 +51,7 @@ jobs:
             print
           }
         ' README.tmp > README.md
+        git status
         echo "###############"
         cat README.tmp | grep -C 5 youtube
         echo "###############"
