@@ -44,7 +44,6 @@ jobs:
             next;                           # 次の行に進む
           }
           /<!-- latest-youtube-posts:end -->/ {
-            print;                          # タグ行を出力
             flag=0;                         # フラグを下ろす
           }
           !flag {                           # フラグが下がっている行だけを出力
