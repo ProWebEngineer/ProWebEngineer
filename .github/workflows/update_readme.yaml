@@ -41,6 +41,7 @@ jobs:
         cat README.tmp | grep youtube
         cat latest-posts.md
         awk '/<!-- latest-posts:start -->/{print; system("cat latest-posts.md"); flag=1; next} /<!-- latest-posts:end -->/{flag=0} !flag' README.tmp > README.md
+        cat README.tmp | grep posts
         # 一時ファイルを削除
         rm README.tmp
     - name: Commit and push
