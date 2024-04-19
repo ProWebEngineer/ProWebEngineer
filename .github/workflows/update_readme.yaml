@@ -63,6 +63,8 @@ jobs:
         rm README.tmp
     - name: Commit and push
       run: |
+        git status
+        git diff README.md
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add README.md
