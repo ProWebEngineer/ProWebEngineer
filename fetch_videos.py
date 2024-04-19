@@ -2,7 +2,7 @@ import requests
 import os
 
 api_key = os.getenv('YOUTUBE_API_KEY')
-channel_id = 'YOUR_CHANNEL_ID'
+channel_id = 'UCGq2Y94R8nXkJw0m2YFO4fA'
 url = f"https://www.googleapis.com/youtube/v3/search?key={api_key}&channelId={channel_id}&part=snippet&order=date&maxResults=5"
 
 response = requests.get(url)
