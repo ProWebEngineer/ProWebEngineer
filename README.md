@@ -48,11 +48,11 @@
 ## ✏Blog Articles
 
 <!-- latest-posts:start -->
+- [Firebase Firestoreを使ってGoogle Apps Scriptでデータを管理する方法](https://pwe-tech.com/post/gas-firestore-setup)
 - [🌐 GASで外部APIを実行する方法 - UrlFetchApp入門](https://pwe-tech.com/post/gas-api-urlfetchapp)
 - [🔧 GASとGCPの連携：Cloud Loggingへのログ出力方法](https://pwe-tech.com/post/gas-gcp-cloud-logging)
 - [🌟 Gatsbyで美しいシンタックスハイライトを実現する方法](https://pwe-tech.com/post/gatsby-prism)
 - [Google Apps ScriptでHTTPリクエストを扱う方法🌐](https://pwe-tech.com/post/google-apps-script-http)
-- [📝 GASで効率的なログ出力をマスターしよう！](https://pwe-tech.com/post/gas)
 <!-- latest-posts:end -->
 
 ## Qiita Articles
