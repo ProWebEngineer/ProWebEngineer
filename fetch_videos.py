@@ -4,7 +4,7 @@ import os
 # 環境変数からAPIキーを取得
 api_key = os.getenv('YOUTUBE_API_KEY')
 channel_id = 'UCGq2Y94R8nXkJw0m2YFO4fA'
-url = f"https://www.googleapis.com/youtube/v3/search?key={api_key}&channelId={channel_id}&part=snippet&order=date&maxResults=3"
+url = f"https://www.googleapis.com/youtube/v3/search?key={api_key}&channelId={channel_id}&part=snippet&order=date&maxResults=5"
 
 response = requests.get(url)
 videos = response.json()
