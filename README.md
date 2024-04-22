@@ -31,13 +31,45 @@
   <a href="https://www.youtube.com/watch?v=QMfBuFT-3DM">
     <img src="https://i.ytimg.com/vi/QMfBuFT-3DM/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #10" style="width: 160px; height: auto; margin-right: 10px;">
   </a>
-  <a href="https://www.youtube.com/watch?v=HSkG2W1wNVk">
-    <img src="https://i.ytimg.com/vi/HSkG2W1wNVk/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #9" style="width: 160px; height: auto; margin-right: 10px;">
-  </a>
   <a href="https://www.youtube.com/watch?v=Dy3INHmlvCw">
     <img src="https://i.ytimg.com/vi/Dy3INHmlvCw/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #8" style="width: 160px; height: auto; margin-right: 10px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=iyHFfPeknlM">
+    <img src="https://i.ytimg.com/vi/iyHFfPeknlM/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #7" style="width: 160px; height: auto; margin-right: 10px;">
+  </a>
 </p>
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
+<!-- latest-youtube-posts:end -->
 <!-- latest-youtube-posts:end -->
 <!-- latest-youtube-posts:end -->
 <!-- latest-youtube-posts:end -->
