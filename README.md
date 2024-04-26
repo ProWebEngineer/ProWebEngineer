@@ -1070,11 +1070,11 @@
 ## ✏Blog Articles
 
 <!-- latest-posts:start -->
+- [📜 Swagger.yaml の基本: 初心者向けガイド](https://pwe-tech.com/post/swagger-yaml)
 - [✨ OpenAPIとは？ RESTful API設計のスタンダード](https://pwe-tech.com/post/openapi-swagger)
 - [⚡️RESTful APIとは？：ウェブサービスのためのインターフェース](https://pwe-tech.com/post/restful-api)
 - [Firebase Firestoreを使ってGoogle Apps Scriptでデータを管理する方法](https://pwe-tech.com/post/gas-firestore-setup)
 - [🌐 GASで外部APIを実行する方法 - UrlFetchApp入門](https://pwe-tech.com/post/gas-api-urlfetchapp)
-- [🔧 GASとGCPの連携：Cloud Loggingへのログ出力方法](https://pwe-tech.com/post/gas-gcp-cloud-logging)
 <!-- latest-posts:end -->
 
 ## Qiita Articles
