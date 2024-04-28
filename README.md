@@ -4142,11 +4142,11 @@
 ## ✏Blog Articles
 
 <!-- latest-posts:start -->
+- [🔑APIの認証方法入門：Basic認証とBearerトークン認証の使い方](https://pwe-tech.com/post/api-basic-bearer)
 - [🤖 API入門：基本から理解するプログラミングの通信手段](https://pwe-tech.com/post/api-basic)
 - [🚀 Postman入門！基本的な使い方をマスターしよう](https://pwe-tech.com/post/postman)
 - [📜 Swagger.yaml の基本: 初心者向けガイド](https://pwe-tech.com/post/swagger-yaml)
 - [✨ OpenAPIとは？ RESTful API設計のスタンダード](https://pwe-tech.com/post/openapi-swagger)
-- [⚡️RESTful APIとは？：ウェブサービスのためのインターフェース](https://pwe-tech.com/post/restful-api)
 <!-- latest-posts:end -->
 
 ## Qiita Articles
