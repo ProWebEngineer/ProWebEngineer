@@ -31,34 +31,10 @@
   <a href="https://www.youtube.com/watch?v=QMfBuFT-3DM">
     <img src="https://i.ytimg.com/vi/QMfBuFT-3DM/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #10" style="width: 160px; height: auto; margin-right: 10px;">
   </a>
-  <a href="https://www.youtube.com/watch?v=HSkG2W1wNVk">
-    <img src="https://i.ytimg.com/vi/HSkG2W1wNVk/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #9" style="width: 160px; height: auto; margin-right: 10px;">
-  </a>
   <a href="https://www.youtube.com/watch?v=Dy3INHmlvCw">
     <img src="https://i.ytimg.com/vi/Dy3INHmlvCw/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #8" style="width: 160px; height: auto; margin-right: 10px;">
   </a>
+  <a href="https://www.youtube.com/watch?v=iyHFfPeknlM">
+    <img src="https://i.ytimg.com/vi/iyHFfPeknlM/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #7" style="width: 160px; height: auto; margin-right: 10px;">
+  </a>
 </p>
-
-## Udemy
-- [⭐️4.7以上！【Vue.js + firebase + Vuetify】Vue.js入門！超実践チャットルームアプリ開発](https://udemy.com/course/vue-chat)
-- [現場で働けるGit入門:これで安心！実際の実務で使えるGit：GitHub を基礎から徹底学習](https://www.udemy.com/course/basic-git)
-
-## ✏Blog Articles
-
-<!-- latest-posts:start -->
-- [🌐 laC化とは？](https://pwe-tech.com/post/lac)
-- [🌟AWS資格取得のための具体的な勉強方法ガイド](https://pwe-tech.com/post/aws)
-- [レイテンシとは？ 🕒✨](https://pwe-tech.com/post/latency)
-- [GCP OAuth認証設定ガイド 🌟](https://pwe-tech.com/post/google-calendar-api-oauth)
-- [[TypeScript] 配列とタプルの違いを理解しよう！📚](https://pwe-tech.com/post/typescript-array-turple)
-<!-- latest-posts:end -->
-
-## Qiita Articles
-
-<!-- profile updater begin: qiita -->
-- May 11, **8 LGTM** [Neovim 初心者向け設定ガイド](https://qiita.com/4roro4/items/4c535300ccf210bcbcf4)
-- May 2 [SSL/TLS についてメモ](https://qiita.com/4roro4/items/4fb56b37379f70fce909)
-- Apr 28 [cURLを使ったAPI認証：-u オプションと -H オプションの違い](https://qiita.com/4roro4/items/d6d66a971c80e466da53)
-- Apr 27, **1 LGTM** [これだけは覚えておきたいステータスコード](https://qiita.com/4roro4/items/030d8469049ce1dd0b24)
-- Apr 5 [CSSの再利用性を高める！Mixinの基本](https://qiita.com/4roro4/items/1b5ad6181ec95b0b1556)
-<!-- profile updater end: qiita -->
