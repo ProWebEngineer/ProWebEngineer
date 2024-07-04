@@ -56,7 +56,7 @@
 ## Qiita Articles
 
 <!-- profile updater begin: qiita -->
-- May 11, **7 LGTM** [Neovim 初心者向け設定ガイド](https://qiita.com/4roro4/items/4c535300ccf210bcbcf4)
+- May 11, **8 LGTM** [Neovim 初心者向け設定ガイド](https://qiita.com/4roro4/items/4c535300ccf210bcbcf4)
 - May 2 [SSL/TLS についてメモ](https://qiita.com/4roro4/items/4fb56b37379f70fce909)
 - Apr 28 [cURLを使ったAPI認証：-u オプションと -H オプションの違い](https://qiita.com/4roro4/items/d6d66a971c80e466da53)
 - Apr 27, **1 LGTM** [これだけは覚えておきたいステータスコード](https://qiita.com/4roro4/items/030d8469049ce1dd0b24)
