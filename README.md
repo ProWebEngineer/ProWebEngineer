@@ -22,12 +22,6 @@
 
 <!-- latest-youtube-posts:start -->
 <p>
-  <a href="https://www.youtube.com/watch?v=5Gg0ZhdCcag">
-    <img src="https://i.ytimg.com/vi/5Gg0ZhdCcag/mqdefault.jpg" alt="S3を利用したSPAの迅速デプロイメント方法を解説" style="width: 160px; height: auto; margin-right: 10px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=HngThxAVelU">
-    <img src="https://i.ytimg.com/vi/HngThxAVelU/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #1 1" style="width: 160px; height: auto; margin-right: 10px;">
-  </a>
   <a href="https://www.youtube.com/watch?v=QMfBuFT-3DM">
     <img src="https://i.ytimg.com/vi/QMfBuFT-3DM/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #10" style="width: 160px; height: auto; margin-right: 10px;">
   </a>
@@ -36,5 +30,11 @@
   </a>
   <a href="https://www.youtube.com/watch?v=iyHFfPeknlM">
     <img src="https://i.ytimg.com/vi/iyHFfPeknlM/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #7" style="width: 160px; height: auto; margin-right: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=mrlbmRqm9KA">
+    <img src="https://i.ytimg.com/vi/mrlbmRqm9KA/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #6" style="width: 160px; height: auto; margin-right: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=jp6Q7raZ6GQ">
+    <img src="https://i.ytimg.com/vi/jp6Q7raZ6GQ/mqdefault.jpg" alt="【Vue3入門】実践を通じて学ぶTODO List #5" style="width: 160px; height: auto; margin-right: 10px;">
   </a>
 </p>
